@@ -19,5 +19,27 @@
     color: white;
   }
   body {
-    background-color: #3C638E;
+    background-color: #00288b;
   }
+  h1 {
+    font-family: 'actor';
+    color: #fdd201;
+    text-align: center;
+  }
+  h2 {
+    font-family: 'actor';
+    color: #fdd201;
+    text-align: center;
+  }
+
+
+
+
+
+.mainpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: solid rgb(241, 5, 5);
+}
